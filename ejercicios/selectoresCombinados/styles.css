@@ -1,0 +1,22 @@
+div p {
+    background-color: brown;
+    height: 300px;
+    width: 300px;
+}
+
+section > p {
+
+    background-color: yellow;
+    
+}
+
+div + p {
+    background-color: green;
+    height: 100px;
+    width: 100px;
+}
+
+div ~ p {
+    border-style: dashed;
+    
+}

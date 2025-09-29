@@ -1,0 +1,13 @@
+.after::after{
+   content: "🐦‍🔥";
+}   
+.before::before {
+   content: "🐦‍🔥";
+}
+.first-letter::first-letter {
+   content: "🐦‍🔥";
+    font-size: 2em;
+}
+.placeholder::placeholder{
+   color: blueviolet;
+}
