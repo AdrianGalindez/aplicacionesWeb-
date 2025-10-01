@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+div{
+    background-color: rgb(93, 222, 102);
+    width: 500px;
+    height: 200px;
+    position: relative;
+    border-radius: 5px;
+    
+}
+
+.container{
+    margin: 500px;
+}
+#titulo{
+    background-color: blueviolet;
+    width: 100px;
+    height: 20px;
+    position: absolute;
+    top: -10px;
+    border-radius: 5px;
+    left: 40%; 
+}
+
+div p {
+    padding-top: 50px;
+}
